@@ -1,8 +1,10 @@
-Welcome to the Content Suggestion Project! You have two options to access this project: through Heroku and by manually downloading and running locally.
+Welcome to the Content Suggestion Project! This web app will allow you to find inspiration for Instagram posts, popular hashtags and give you an analysis of your audience behavior. Note: You need to use your login credentials to Instagram, since the data is fetched using Instagram API.
+
+You have two options to access this project: through Heroku and by manually downloading and running locally.
 
 ## Heroku Deployment
 
-The link to the Heroku website: https://content-suggestion.herokuapp.com/ (Might be outdated)
+The link to the Heroku website: https://content-suggestion.herokuapp.com/ (deprecated)
 
 ## Run Virtual Environment
 
